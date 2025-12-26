@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pricedb",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2f23378f-1236-4948-afe9-44a32f3a7c77",
+			"database_name": "price_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
